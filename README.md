@@ -1,5 +1,1 @@
- <search>
-  <form>
-    <input name="fsrch" id="fsrch" placeholder="Search W3Schools">
-  </form>
-</search> 
+<input>
